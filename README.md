@@ -1,2 +1,0 @@
-# MazeSolver
-Tarea de Arqui
